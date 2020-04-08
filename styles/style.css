@@ -36,6 +36,7 @@
   font-size: 102px;
   font-weight: bold;
   width: 730px;
+  z-index: 2;
 }
 .header__subtitle{
     position: absolute;
@@ -71,6 +72,7 @@
     top:64px;
     right:0px;
     background-size:contain;
+    z-index: 0;
 }
 /*main Body*/
 /*description block*/
@@ -302,15 +304,15 @@
     font-weight: bold;
 }
 .footer__column_content_info{
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
     margin-right: auto;
     margin-left: auto;
 }
 .footer__column-links{
     list-style: none;
     padding-left: 0;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
 }
 .footer__column-link{
     color: #F2F2F2;
