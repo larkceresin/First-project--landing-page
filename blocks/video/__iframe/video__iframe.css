@@ -1,12 +1,11 @@
 .video__iframe{
   width: 515px;
   height:316px;
+  object-fit: cover;
+    border: 0;
 
 }
 .video__iframe:first-of-type{
-  margin-right: 20px;
+  padding-right: 20px;
     margin-left: auto;
-}
-.video__iframe:last-of-type{
-    margin-right: auto;
 }

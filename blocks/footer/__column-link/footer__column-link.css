@@ -1,0 +1,16 @@
+.footer__column-link{
+    color: #F2F2F2;
+    text-decoration: none;
+    transition: opacity 1s ease-in-out;
+}
+.footer__column-link:hover{
+    opacity: .4;
+}
+
+.footer__column_link:first-of-type{
+    margin-top: 20px;
+}
+
+.footer__column_link:last-of-type{
+    margin-bottom: 16px;
+}
