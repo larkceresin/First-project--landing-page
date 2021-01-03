@@ -1,4 +1,4 @@
-# Web Project Sprint 2
+# Practicum Web Project Sprints 1 + 2
 *Jenna Toff*
 * [this project live](https://larkceresin.github.io/First-project--landing-page/)
 
