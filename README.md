@@ -1,6 +1,6 @@
 # Web Project Sprint 2
 *Jenna Toff*
-* [this project live](https://larkceresin.github.io/web_project_1/)
+* [this project live](https://larkceresin.github.io/First-project--landing-page/)
 
 ## Learning HTML and CSS
 
