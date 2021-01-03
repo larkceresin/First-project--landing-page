@@ -1,5 +1,5 @@
 # Web Project Sprint 2
-*Jenna Toff* [Portfolio-in-progress](www.larks-grove.com "Lark's Grove")
+*Jenna Toff*
 * [this project live](https://larkceresin.github.io/web_project_1/)
 
 ## Learning HTML and CSS
